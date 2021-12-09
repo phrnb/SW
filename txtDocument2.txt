@@ -1,0 +1,6 @@
+
+trpo 2 9.4 9
+trpo 1 8.5 8
+Sorted array
+trpo 2 9.4 9
+trpo 1 8.5 8
